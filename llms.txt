@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Hoytoba |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 06, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/hoytoba/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অচেনা এক মায়ায় ঘেরা তোমার চোখের আলো
+> হারিয়ে যাই আমি সেথায় বাসতে তোমায় ভালো
+> মনের মাঝে লুকিয়ে রাখা প্রেমের এই আবেশ
+> তোমার ছোঁয়ায় খুঁজে পেলাম স্বপ্নের এক দেশ
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
