@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Hoytoba
+
+This log tracks the cryptographic history and versioning for the song **Hoytoba** (hoytoba).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:47:18.801299 | `v1` | `9238578b444d9c12092b54dc7eff081f7a960e74b717738c95c99580087f60a1` | `d1d6558cd6e73a8c6923432e2a126500d09d28be4fead944a70184271af7cc4e` | `2026-05-08_hoytoba-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
